@@ -1,2 +1,2 @@
-# Roupa-nova-mobile-App
-Projeto Roupa Nova para o PI 4 de ADS em React
+# Roupa_nova_react-native_App
+Projeto acadêmico "Roupa Nova" desenvolvido com React Native
