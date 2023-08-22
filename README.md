@@ -1,2 +1,2 @@
-# Roupa_nova_react_native_app
-Projeto acadêmico "Roupa nova" desenvolvido com React Native.
+# Roupa nova mobile app
+Mobile app developed as a academic project.
