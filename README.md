@@ -1,2 +1,2 @@
 # Roupa nova mobile app
-Mobile app developed as a academic project.
+##Mobile app for academic learning of React Native.
