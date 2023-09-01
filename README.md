@@ -1,2 +1,3 @@
-# Roupa nova mobile app
-## Mobile app for academic learning of React Native.
+# Roupa nova app
+
+## App for academic learning of React Native.
